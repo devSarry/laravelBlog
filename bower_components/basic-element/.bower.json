@@ -1,0 +1,28 @@
+{
+  "name": "basic-element",
+  "description": "Base class for some elements in the Basic Web Components collection",
+  "version": "0.5.0",
+  "license": "MIT",
+  "main": "basic-element.html",
+  "dependencies": {
+    "basic-helpers": "basic-web-components/basic-helpers#^0.5.0",
+    "polymer": "Polymer/polymer#^0.5.5"
+  },
+  "keywords": [
+    "basic-web-components",
+    "web-components"
+  ],
+  "ignore": [
+    "**/.*"
+  ],
+  "homepage": "https://github.com/basic-web-components/basic-element",
+  "_release": "0.5.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.5.0",
+    "commit": "34471a953155afdeb0dd781aa60df16c2db5d91a"
+  },
+  "_source": "git://github.com/basic-web-components/basic-element.git",
+  "_target": "^0.5.0",
+  "_originalSource": "basic-web-components/basic-element"
+}

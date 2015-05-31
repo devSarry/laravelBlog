@@ -24,6 +24,8 @@
                 <a href="{ { articles->user } }">{ { articles->author } }</a>
                 { { articles->date } }
             </p>
+
+
         </div>
         <hr>
 

@@ -1,0 +1,30 @@
+{
+  "name": "basic-days-of-week",
+  "description": "The names of the days of the week, e.g., for use as a calendar header",
+  "version": "0.5.0",
+  "license": "MIT",
+  "main": "basic-days-of-week.html",
+  "dependencies": {
+    "basic-element": "basic-web-components/basic-element#^0.5.0"
+  },
+  "devDependencies": {
+    "basic-framed-content": "basic-web-components/basic-framed-content#^0.5.0"
+  },
+  "keywords": [
+    "basic-web-components",
+    "web-components"
+  ],
+  "ignore": [
+    "**/.*"
+  ],
+  "homepage": "https://github.com/basic-web-components/basic-days-of-week",
+  "_release": "0.5.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.5.0",
+    "commit": "e195fff58ddc5f50e39d8174dbf7927fea7ca8e0"
+  },
+  "_source": "git://github.com/basic-web-components/basic-days-of-week.git",
+  "_target": "^0.5.0",
+  "_originalSource": "basic-web-components/basic-days-of-week"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "basic-month-name",
+  "description": "A culture's name for a given month",
+  "version": "0.5.0",
+  "license": "MIT",
+  "main": "basic-month-name.html",
+  "dependencies": {
+    "basic-element": "basic-web-components/basic-element#^0.5.0"
+  },
+  "devDependencies": {
+    "basic-framed-content": "basic-web-components/basic-framed-content#^0.5.0"
+  },
+  "keywords": [
+    "basic-web-components",
+    "web-components"
+  ],
+  "ignore": [
+    "**/.*"
+  ],
+  "homepage": "https://github.com/basic-web-components/basic-month-name",
+  "_release": "0.5.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.5.0",
+    "commit": "72b4bec45a079226a2d6d8e54e5bca55916dcecf"
+  },
+  "_source": "git://github.com/basic-web-components/basic-month-name.git",
+  "_target": "^0.5.0",
+  "_originalSource": "basic-web-components/basic-month-name"
+}
